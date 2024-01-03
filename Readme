@@ -1,1 +1,12 @@
+Tower defense game.
+
+3D game made with Unity.
+
+Using version Unity 2022.3.7f1 <DX11>.
+
+For the best, add those package to the project:
+- Unity UI.
+- TextMeshPro.
+- Unity Universal Render Pipeline.
+- AI navigation.
 
