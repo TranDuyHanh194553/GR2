@@ -3,8 +3,8 @@
 Using version Unity 2022.3.7f1 <DX11>.
 
 To avoid the unexpected circumstances, please to add these following packages to the project:
-- Unity UI.
-- TextMeshPro.
 - Unity Universal Render Pipeline.
 - AI navigation.
-
+- Waypoints
+- MergeUIShop
+- Strategy
