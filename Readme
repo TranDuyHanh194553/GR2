@@ -1,4 +1,4 @@
-3D Tower defense game made with Unity.
+- Strategy 3D Tower defense game made with Unity.
 
 Using version Unity 2022.3.7f1 <DX11>.
 
@@ -7,4 +7,3 @@ To avoid the unexpected circumstances, please to add these following packages to
 - AI navigation.
 - Waypoints
 - MergeUIShop
-- Strategy
